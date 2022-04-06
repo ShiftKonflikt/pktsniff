@@ -1,0 +1,3 @@
+[submodule "nethdrs"]
+	path = nethdrs
+	url = https://github.com/strange-oblong/nethdrs
